@@ -1,8 +1,6 @@
 Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
 
-git status: Este comando se usa para obtener el estado actual del repositorio
-
-git clone: trae un repositorio completo desde una ubicación alojada a través de URL
+`git status`: Este comando se usa para obtener el estado actual del repositorio
 
 git pull: obtener cualquier confirmación de la rama remota de seguimiento
 
